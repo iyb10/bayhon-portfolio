@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Inigo\\source\\repos\\Bayhon_Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C22AF-6817-41AE-AC59-FB0EFBD231BE}|Bayhon_Portfolio\\Bayhon_Portfolio.csproj|c:\\users\\inigo\\source\\repos\\bayhon_portfolio\\bayhon_portfolio\\portfolio\\bayhon.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B4C22AF-6817-41AE-AC59-FB0EFBD231BE}|Bayhon_Portfolio\\Bayhon_Portfolio.csproj|solutionrelative:bayhon_portfolio\\portfolio\\bayhon.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bayhon.html",
+              "DocumentMoniker": "C:\\Users\\Inigo\\source\\repos\\Bayhon_Portfolio\\Bayhon_Portfolio\\Portfolio\\Bayhon.html",
+              "RelativeDocumentMoniker": "Bayhon_Portfolio\\Portfolio\\Bayhon.html",
+              "ToolTip": "C:\\Users\\Inigo\\source\\repos\\Bayhon_Portfolio\\Bayhon_Portfolio\\Portfolio\\Bayhon.html",
+              "RelativeToolTip": "Bayhon_Portfolio\\Portfolio\\Bayhon.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-20T14:29:35.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
