@@ -68,15 +68,38 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\Admin.png" />
+    <Content Include="Images\app.png" />
+    <Content Include="Images\aws.png" />
+    <Content Include="Images\Certificate-Of-Completion_Bayhon.jpg" />
+    <Content Include="Images\comptia.png" />
+    <Content Include="Images\cplusplus-logo.png" />
+    <Content Include="Images\csharp-logo.png" />
+    <Content Include="Images\css-logo.png" />
+    <Content Include="Images\data.png" />
     <Content Include="Images\departments.png" />
     <Content Include="Images\Energy_Monitoring.png" />
     <Content Include="Images\ePadala.png" />
+    <Content Include="Images\ePadala1.png" />
+    <Content Include="Images\Firewall_Certificate_Bayhon.png" />
+    <Content Include="Images\flutter-logo.png" />
     <Content Include="Images\Green_Stream.png" />
+    <Content Include="Images\Green_Stream1.jpg" />
+    <Content Include="Images\Green_Stream2.png" />
     <Content Include="Images\Home.png" />
+    <Content Include="Images\html-logo.png" />
     <Content Include="Images\iLigtas.jpg" />
+    <Content Include="Images\iLigtas1.png" />
+    <Content Include="Images\iLigtas2.png" />
+    <Content Include="Images\INIGO-BAYHON.jpg" />
+    <Content Include="Images\Inigo-Yvan-B-Bayhon-1.jpg" />
+    <Content Include="Images\load.png" />
     <Content Include="Images\Milestone.png" />
     <Content Include="Images\Milestone2.png" />
+    <Content Include="Images\mysql-logo.png" />
+    <Content Include="Images\php-logo.png" />
     <Content Include="Images\Profile.jpg" />
+    <Content Include="Images\secure.png" />
+    <Content Include="Images\stairs.jpg" />
     <Content Include="Images\sustainability.png" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
@@ -85,6 +108,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Bayhon_Practicum_Final_Report.pdf" />
     <None Include="packages.config" />
     <Content Include="Bayhon_CV.pdf" />
     <None Include="Web.Debug.config">
