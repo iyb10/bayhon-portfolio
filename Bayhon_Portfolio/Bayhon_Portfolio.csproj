@@ -76,6 +76,9 @@
     <Content Include="Images\csharp-logo.png" />
     <Content Include="Images\css-logo.png" />
     <Content Include="Images\data.png" />
+    <Content Include="Images\Data_Structures_InfoSys1.png" />
+    <Content Include="Images\Data_Structures_InfoSys2.png" />
+    <Content Include="Images\Data_Structures_InfoSys3.png" />
     <Content Include="Images\departments.png" />
     <Content Include="Images\Energy_Monitoring.png" />
     <Content Include="Images\ePadala.png" />
@@ -88,8 +91,9 @@
     <Content Include="Images\Home.png" />
     <Content Include="Images\html-logo.png" />
     <Content Include="Images\iLigtas.jpg" />
-    <Content Include="Images\iLigtas1.png" />
+    <Content Include="Images\iLigtas1.jpg" />
     <Content Include="Images\iLigtas2.png" />
+    <Content Include="Images\ineed_logo.png" />
     <Content Include="Images\INIGO-BAYHON.jpg" />
     <Content Include="Images\Inigo-Yvan-B-Bayhon-1.jpg" />
     <Content Include="Images\load.png" />
